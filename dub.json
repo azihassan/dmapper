@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Hassan Azi"
+	],
+	"copyright": "Copyright © 2022, Hassan Azi",
+	"description": "A type mapping library",
+	"license": "GPL",
+	"name": "dmapper"
+}

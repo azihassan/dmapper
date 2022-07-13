@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/dmapper
+dmapper.so
+dmapper.dylib
+dmapper.dll
+dmapper.a
+dmapper.lib
+dmapper-test-*
+*.exe
+*.o
+*.obj
+*.lst
